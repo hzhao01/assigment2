@@ -1,0 +1,65 @@
+html {
+    color: aquamarine;
+    box-sizing: border-box;
+    
+
+
+    margin: 0;
+    padding:0;
+   
+}
+
+#aquafont {
+    font-size: 1.0em;
+    color: aqua
+}
+
+body {
+/*    background-image: url(../img/VEGAS17_A16_9317-1.jpg);*/
+    background-size:cover;
+    background-position: center;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(100,0,0,.5)),url(../img/VEGAS17_A16_9317-1.jpg);
+}
+#address {
+    color: transparent;
+    font-size: 15pt;
+
+    border: 5px dotted pink;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    margin: 15px 5px 15px 5px;
+}
+
+ul {
+    width: 800px;
+    border: 15px;
+    padding: 15px;
+    margin: 20px;
+}
+
+h2 {
+    width: 800px;
+    border: 15px;
+    padding: 15px;
+    margin: 20px;
+}
+
+ol {
+    width: 800px;
+    border: 15px;
+    padding: 15px;
+    margin: 20px;
+}
+nav{
+    background-color: white;
+text-align: center;
+    align-content: center;
+}
+div{
+    background-color: white;
+    
+}
