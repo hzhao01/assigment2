@@ -33,7 +33,11 @@ body {
 
     margin: 15px 5px 15px 5px;
 }
-
+.uio{
+    color: azure;
+    text-align: center;
+    font-size: 13pt;
+}
 ul {
     width: 800px;
     border: 15px;
